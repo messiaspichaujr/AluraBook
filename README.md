@@ -1,2 +1,2 @@
 # AluraBook
-Primeiro projeto usando swiper js no meu index.
+Projeto feito durante o curso de responsividade da plataforma alura.
